@@ -1,5 +1,5 @@
 
-# Setup 
+## Circos plot organelle 
 
 Install dependencies using conda
 ```
