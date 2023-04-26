@@ -1,6 +1,8 @@
 
 ## Circos plot organelle 
 
+Python wrapper script to create an annotated circos plot. 
+
 Install dependencies using conda
 ```
 # create environment
