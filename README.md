@@ -21,4 +21,6 @@ python circos_plot_organelle.py \
    --window 50
 ```
 
+See circos.png output which should like like this: 
+![alt text](example_data/circos.png)
 
