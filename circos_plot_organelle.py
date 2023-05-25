@@ -210,6 +210,8 @@ karyotype = karyotype.txt
 file  = data/annotations_genes.txt
 r1    = 0.90r
 r0    = 0.85r
+stroke_color = black
+stroke_thickness = 2
 </highlight>
 </highlights>
 
@@ -285,12 +287,14 @@ for line in ann:
     col="blue"
     if gene.startswith("cox"):
         col="red"
-    if gene.startswith("atp6"):
+    if gene.startswith("atp"):
         col="green"
     if gene.startswith("rrn"):
         col="yellow"
     if gene.startswith("cob"):
         col="vdgreen"
+    if gene.startswith("trn"):
+        col="purple"
     if orien == "+":
         r1 = "0.80r"
         r0 = "0.75r"
