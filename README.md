@@ -39,5 +39,5 @@ See the image circos.png, which should look like the image below. The plot shows
 - GC content
 - Repeat content
 
-![alt text](example_data/circos.png)
+![alt text](example_data/circos.png?)
 
