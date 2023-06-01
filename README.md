@@ -32,9 +32,9 @@ python circos_plot_organelle.py \
 
 See the image circos.png, which should look like the image below. The plot shows the following attributes from outside to inside:
 - Sequence position
-- Annotatation names
-- Annotatations on the + strand
-- Annotatations on the - strand
+- Annotation names
+- Annotations on the + strand
+- Annotations on the - strand
 - Coverage
 - GC content
 - Repeat content
